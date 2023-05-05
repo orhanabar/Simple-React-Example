@@ -66,6 +66,7 @@ const Products = () => {
 
   return (
     <div>
+      <p>Toptan veya Perakende Sipariş Verebileceğiniz</p>
       <p>Ürünlerimizden Bazıları</p>
       <Container className="project-section">
         <Row xs={1} md={2}>
