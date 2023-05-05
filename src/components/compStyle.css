@@ -8,7 +8,7 @@ nav {
   transition: 0.3s ease-in-out;
   background-color: white;
   max-width: 1000px;
-  min-width: 500px;
+  min-width: 320px;
   border-bottom: 1px solid #422c2c;
   -webkit-box-shadow: 0 18px 18px -18px #422c2c;
   -moz-box-shadow: 0 18px 18px -18px #422c2c;
